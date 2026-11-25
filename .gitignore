@@ -1,0 +1,6 @@
+.godot/
+export_templates/
+editor_data/
+tests/
+*.exe
+*.pck
